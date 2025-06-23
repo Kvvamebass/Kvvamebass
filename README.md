@@ -1,7 +1,7 @@
 
 # Hi, I'm Kevin 
 
-🎓 Electrical Engineering Student at Dalhousie University | 🛠️ Maker | 🔍 Grant Automation Dev | 🎬 Aspiring Filmmaker
+🎓 Electrical Engineering Student at Dalhousie University 
 
 ---
 
