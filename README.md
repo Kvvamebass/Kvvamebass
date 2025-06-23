@@ -36,7 +36,7 @@
 
 ---
 
-📫 Reach me at: **kevin.oseisarfo@colchestersac.ca** or on [LinkedIn](https://www.linkedin.com/in/kvvame)
+📫 Reach me at: **kevin@colchestersac.ca** or on [LinkedIn](https://www.linkedin.com/in/kvvame)
 
 ---
 
