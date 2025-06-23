@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Kevin Osei-Sarfo
+# Hi, I'm Kevin 
 
 🎓 Electrical Engineering Student at Dalhousie University | 🛠️ Maker | 🔍 Grant Automation Dev | 🎬 Aspiring Filmmaker
 
