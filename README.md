@@ -23,7 +23,7 @@
 
 ## 🧰 Skills & Tools
 
-`Python` `Selenium` `BeautifulSoup` `GitHub Actions` `OpenAI API`  
+`Python` `C/C++` `Selenium` `BeautifulSoup` `GitHub Actions` `OpenAI API`  
 `MATLAB` `AVR Assembly` `SolidWorks` `KiCad` `DaVinci Resolve`
 
 ---
